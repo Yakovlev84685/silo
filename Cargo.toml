@@ -3,3 +3,4 @@ name = "silo"
 version = "0.1.0"
 edition = "2021"
 description = "Same app, same port, at the same time"
+# handle the edge case from the last release
